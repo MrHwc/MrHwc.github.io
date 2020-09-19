@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git://github.com/MrHwc/MrHwc.github.io.git"
   },
-  "bugs",: {
+  "bugs": {
     "url": "https://github.com/mmistakes/hpstr-jekyll-theme/issues"
   },
   "engines": {
