@@ -1,4 +1,4 @@
-title:            Huy Nguyen
+title:            Work Hard
 description:      Chen
 disqus_shortname: 
 reading_time:     false
@@ -12,10 +12,10 @@ url:
 owner:
   name:           Chen
   avatar:         chen.jpg
-  bio:            "努力努力！"
+  bio:            "Work Hard !!!"
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  github:         MrHwc
+  github:         https://github.com/MrHwc
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +HuyNguyenMinhStormChaser
 
