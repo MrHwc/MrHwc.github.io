@@ -39,7 +39,7 @@ author:
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : 努力工作
-  github    : https://github.com/MrHwc # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : MrHwc # "user_name" the last part of your profile url, e.g. https://github.com/user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
