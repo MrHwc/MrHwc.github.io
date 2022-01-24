@@ -15,4 +15,7 @@ android studio 4.1导入步骤：`File`->`New`->`import Module`,选择sdk路径�
 更改`openCVLibrary345`包下的`build.gradle`，将其中的版本改成和`app`下的`build.gradle`中版本一致。   
 
 # Android studio 取消代理  
-windows下Android studio[取消代理](https://www.jiaozn.com/reed/633.html)
+windows下Android studio[取消代理](https://www.jiaozn.com/reed/633.html)  
+
+# 调用libopencv_java3.so  
+主要[参考](https://blog.csdn.net/m0_37388625/article/details/104336854)，在Android studio中封装的so算法库要调用opencv时，可以使用该方法添加opencv库。需要的include头文件和so文件均在OpenCV-android-sdk中
